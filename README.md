@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **apole@orax.net**
 
-- ⚡ Fun fact, **i have no idea why are you here.**
+- ⚡ Fun fact, **i have no idea why you are here.**
 <hr class="rounded">
 
 <h3 align="center">Languages and Tools</h3>
