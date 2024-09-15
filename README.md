@@ -20,7 +20,6 @@
 <hr class="rounded">
 
 <h3 align="center">Languages and Tools</h3>
-<hr class="solid">
 <p align="center">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" style="margin: 10px; display: inline-block;"/> 
@@ -47,7 +46,7 @@
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" style="margin: 10px; display: inline-block;"/> 
   </a>
 </p>
-
+<hr class="solid">
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=apole-dev&show_icons=true&locale=en&layout=compact" alt="apole-dev" /></p>
 
