@@ -6,13 +6,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apole-dev" alt="apole-dev" /></a> </p>
 <hr class="rounded">
 
-- 🔭 I’m currently working on [<..>]()
-
 - 🌱 I’m currently learning **Machine Learning & STM32**
 
-- 👨‍💻 All of my projects are available at [apole.orax.net](apole.orax.net)
-
-- 💬 Ask me about **C# AND UNITY**
+- 👨‍💻 All of my projects are (unavailable) at [apole.orax.net](apole.orax.net) 
 
 - 📫 How to reach me **apole@orax.net**
 
