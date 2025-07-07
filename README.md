@@ -1,25 +1,13 @@
 <h1 align="center">Hi 👋, I'm Eren</h1>
 <h3 align="center">Dream worker from EVERYWHERE like electrons :)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=apole-dev&label=Profile%20views&color=0e75b6&style=flat" alt="apole-dev" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=apole-dev&label=Profile%20views&color=0e75b6&style=flat" alt="apole-dev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apole-dev" alt="apole-dev" /></a> </p>
-<hr class="rounded">
-
-- 🌱 I’m currently learning **Machine Learning & STM32**
-
-- 👨‍💻 All of my projects are (unavailable) at [apole.orax.net](apole.orax.net) 
-
-- 📫 How to reach me **apole@orax.net**
-
-- ⚡ Fun fact, **i have no idea why you are here.**
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apole-dev&theme=gruvbox&row=2&column=3" alt="apole-dev" /></a> </p>
 <hr class="rounded">
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" style="margin: 10px; display: inline-block;"/> 
-  </a> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="margin: 10px; display: inline-block;"/> 
   </a> 
