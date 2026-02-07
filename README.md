@@ -1,35 +1,34 @@
-<h1 align="center">Hi 👋, I'm Eren</h1>
-<h3 align="center">Dream worker from EVERYWHERE like electrons :)</h3>
+<div align="center">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=apole-dev&label=Profile%20views&color=0e75b6&style=flat" alt="apole-dev" /> </p>
+# Hi 👋, I'm Eren
+**Electrical & Electronics Engineering Student | Embedded Systems & Edge AI **
+
+*"Architecting systems from the silicon up, where every clock cycle and electron counts."*
+
+<img src="https://github-profile-trophy.vercel.app/?username=apole-dev&theme=flat&no-bg=true&no-frame=true&margin-w=15&column=7" alt="trophies" />
+
+<img src="https://komarev.com/ghpvc/?username=apole-dev&label=Profile%20views&color=0e75b6&style=flat-square" alt="views" />
+
+---
 
 
-<h3 align="center">Languages and Tools</h3>
-<p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="margin: 10px; display: inline-block;"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="margin: 10px; display: inline-block;"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="margin: 10px; display: inline-block;"/> 
-  </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="margin: 10px; display: inline-block;"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin: 10px; display: inline-block;"/> 
-  </a> 
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" style="margin: 10px; display: inline-block;"/> 
-  </a> 
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" style="margin: 10px; display: inline-block;"/> 
-  </a>
-</p>
-<hr class="solid">
+**Low-Level & Embedded** <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" /> <img src="https://img.shields.io/badge/RISC--V-602C3C?style=flat-square&logo=riscv&logoColor=white" /> <img src="https://img.shields.io/badge/Bare--Metal-FF6600?style=flat-square" />
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=apole-dev&show_icons=true&locale=en&layout=compact" alt="apole-dev" /></p>
+**AI & Development** <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apole-dev&show_icons=true&locale=en" alt="apole-dev" /></p>
+---
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=apole-dev&show_icons=true&theme=dracula&hide_border=true&count_private=true" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=apole-dev&layout=compact&theme=dracula&hide_border=true" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=apole-dev&theme=dracula&hide_border=true" alt="streak" />
+
+</div>
